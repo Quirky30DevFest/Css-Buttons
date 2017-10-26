@@ -6,7 +6,7 @@ Buttons are one of the most important components of any web page, and they have 
 * The box must have two different orange color
 ## Task 2
 * Create a round shaped button with a shadow
-* Use this for the check symbol [&check;] and centre it
+* Use one of these for the check symbol(https://www.toptal.com/designers/htmlarrows/symbols/check-mark/) and centre it
 * provide the border and backround color
 
 ## Task 3
