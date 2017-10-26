@@ -10,7 +10,7 @@ Buttons are one of the most important components of any web page, and they have 
 * provide the border and backround color
 
 ## Task 3
-* Create a bordeder box shape button with a shadow
+* Create a bordered box shape button with a shadow
 * Use the normal X and centre it
 * Red border
 ### Hint- Use Divs instead of buttons 
