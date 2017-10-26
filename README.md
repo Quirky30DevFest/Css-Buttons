@@ -4,5 +4,14 @@ Buttons are one of the most important components of any web page, and they have 
 ## Task 1
 * Create a Bodered Boxed Shaped button with a shadow
 * The box must have two different orange color
+## Task 2
+* Create a round shaped button with a shadow
+* Use this for the check symbol [&check;] and centre it
+* provide the border and backround color
 
-[On completion i should be like this]()
+## Task 3
+* Create a bordeder box shape button with a shadow
+* Use the normal X and centre it
+* Red border
+### Hint- Use Divs instead of buttons 
+[On completion all task should be like this]()
