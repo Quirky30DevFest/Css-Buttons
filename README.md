@@ -15,3 +15,5 @@ Buttons are one of the most important components of any web page, and they have 
 * Red border
 ### Hint- Use Divs instead of buttons 
 [On completion all task should be like this](https://github.com/Quirky30DevFest/Css-Buttons/issues/1)
+
+# [Your NEXT task](https://github.com/Quirky30DevFest/GettingCritical)
